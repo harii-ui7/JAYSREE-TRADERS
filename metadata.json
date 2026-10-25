@@ -1,0 +1,6 @@
+{
+  "name": "Jaysree Traders - Electrical & Plumbing Hardware & Admin CMS",
+  "description": "Premium electrical and plumbing hardware website with zero-code live admin CMS, product catalog, services, bilingual support, and customer inquiry management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
